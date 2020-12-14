@@ -1,3 +1,3 @@
-# zaynebbh
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/zaynebbh/zaynebbh/master/wave.gif" width="30px">
+
+# Hello, folks! <img src="https://github.com/zaynebh/zaynebbh/blob/main/wave.gif" width="30px">
