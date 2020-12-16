@@ -21,19 +21,10 @@ I'am a passionate AI Coputer Scientist, currently working as a Python Developer.
   <a> <img alt="scikitlearn" title="scikitlearn" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> </a> &ensp;
   <a> <img alt="opencv" title="opencv" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /> </a> &ensp;
   <a> <img alt="django" title="django" width="30px" height="30px" src="https://vecta.io/app/link?src=https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </a> &ensp;
- 
   <a> <img alt="git" title="git" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> &ensp;
   <a> <img alt="github" title="github" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a> &ensp;
-  <a> <img alt="mysql" title="mysql" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" /> </a> &ensp;
   <a> <img alt="amazonwebservices" title="amazonwebservices" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> </a> &ensp;
-  <a> <img alt="gcp" title="gcp" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> </a> &ensp;
-  <a> <img alt="kubernetes" title="kubernetes" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> </a> &ensp;
-  <a> <img alt="docker" title="docker" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" /> </a> &ensp;
-  <a> <img alt="photoshop" title="photoshop" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" /> </a> &ensp;
-  <a> <img alt="illustrator" title="illustrator" width="30px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /> </a> 
+  
 </p>
 
-<hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=malihasameen&count_private=true&show_icons=true&include_all_commits=true" alt="malihasameen" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malihasameen&count_private=true&layout=compact&langs_count=7&hide=css" alt="malihasameen" /></p>
