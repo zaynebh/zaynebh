@@ -3,7 +3,7 @@
  "Header")](https://some-url.dev/)
 
 <!-- Actual text -->
-I'am a passionate AI Coputer Scientist, currently working as a Python Developer. I have keen interest in Machine Learning and Deep Learning, and worked in Computer vision and Natural Language Processing field. Feel free to go through my repositories.
+I'am a passionate AI Computer Scientist, currently working as a Python Developer. I have keen interest in Machine Learning and Deep Learning, and worked in Computer vision and Natural Language Processing field. Feel free to go through my repositories.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
