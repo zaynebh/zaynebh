@@ -7,9 +7,9 @@ I'am a passionate AI Computer Scientist, currently working as a Python Developer
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/zayneb-hammami/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="maliha-sameen" /></a> &ensp;  
-<a href="https://github.com/zaynebh" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="malihasameen" /></a> &ensp;  
-<a href="mailto:zayneb.haammami@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="malihasameen58" /></a> &ensp; 
+<a href="https://www.linkedin.com/in/zayneb-hammami/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="zayneb-hammami" /></a> &ensp;  
+<a href="https://github.com/zaynebh" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="zayneb-hammami" /></a> &ensp;  
+<a href="mailto:zayneb.haammami@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="zayneb-hammami" /></a> &ensp; 
 </p>
 
 
