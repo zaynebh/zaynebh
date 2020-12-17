@@ -1,10 +1,10 @@
 
-[![Header](https://github.com/zaynebh/zaynebh/blob/main/rsz_blanc_avec_coup_de_pinceau_bleu_aqua_personnel_logo.png
+[![Header](<img align="center" https://github.com/zaynebh/zaynebh/blob/main/rsz_blanc_avec_coup_de_pinceau_bleu_aqua_personnel_logo.png />
  "Header")](https://some-url.dev/)
 
 <!-- Actual text -->
 
-<p align="left">
+<p align="left"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/zayneb-hammami/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="zayneb-hammami" /></a> &ensp;  
 <a href="https://github.com/zaynebh" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="zayneb-hammami" /></a> &ensp;  
