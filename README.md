@@ -18,7 +18,7 @@
   <a> <img alt="scikitlearn" title="scikitlearn" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> </a> &ensp;
   <a> <img alt="opencv" title="opencv" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /> </a> &ensp;
   <a> <img alt="django" title="django" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </a> &ensp;
-  <a> <img alt="postgresql" title="postgresql" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" /> </a> &ensp;
+  <a> <img alt="postgresql" title="postgresql" width="50px" height="50px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" /> </a> &ensp;
   <a> <img alt="git" title="git" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> &ensp;
   <a> <img alt="github" title="github" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a> &ensp;
   <a> <img alt="amazonwebservices" title="amazonwebservices" width="50px" height="50px"   src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> </a> &ensp;
