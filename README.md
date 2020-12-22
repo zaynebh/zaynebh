@@ -22,7 +22,7 @@
   <a> <img alt="git" title="git" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> &ensp;
   <a> <img alt="github" title="github" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a> &ensp;
   <a> <img alt="amazonwebservices" title="amazonwebservices" width="30px" height="30px"   src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> </a> &ensp;
-  <a> <img alt="elastic" title="elastic" width="30px" height="30px" src=" https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" /> </a> &ensp;
+  <a> <img alt="elastic" title="elastic" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" /> </a> &ensp;
  
 </p>
 
